@@ -6,7 +6,7 @@ media_folder: "public/uploads"
 public_folder: "/uploads"
 
 logo_url: "/images/logo-piaget.png"
-site_url: "hinstituto-piaget-prueba.vercel.app" # cambia a tu dominio real
+site_url: "instituto-piaget-prueba.vercel.app" # cambia a tu dominio real
 
 locale: 'es' # idioma español en todo el admin
 
