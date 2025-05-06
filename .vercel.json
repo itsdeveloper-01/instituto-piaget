@@ -1,0 +1,12 @@
+{
+    "routes": [
+      {
+        "src": "^/admin/?(.*)$",
+        "headers": {
+          "Authorization": "Basic cGlhZ2V0Omluc3RpdHV0bzIwMjU="
+        },
+        "continue": true
+      }
+    ]
+  }
+  
