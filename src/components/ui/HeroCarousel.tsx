@@ -4,7 +4,6 @@ import 'keen-slider/keen-slider.min.css'
 import { useKeenSlider } from 'keen-slider/react'
 import Image from 'next/image'
 
-
 const slides = [
   { src: '/images/piaget_demo_1.png', alt: 'Slide 1' },
   { src: '/images/piaget_demo_2.jpg', alt: 'Slide 2' },

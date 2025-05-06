@@ -1,0 +1,31 @@
+/* Cambiar fondo del login */
+body.cms-login {
+    background-color: #f0f4f8;
+  }
+  
+  /* Logo más pequeño */
+  .cms-login .logo img {
+    max-width: 200px;
+  }
+  
+  /* Estilos generales */
+  :root {
+    --primary-color: #003366; /* Azul Piaget */
+    --accent-color: #fdb813; /* Amarillo Piaget */
+  }
+  
+  a, button {
+    color: var(--primary-color);
+  }
+  
+  button {
+    background-color: var(--accent-color);
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+  }
+  
+  button:hover {
+    background-color: #e5a500;
+  }
+  

@@ -40,3 +40,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 --Es una librería moderna de íconos SVG que se integra perfecto con React y Tailwind. Es muy ligera y customizable
 
 --actualizando dev
+
+
+credenciales para el cms
+Usuario: piaget
+Contraseña: instituto2025

@@ -1,8 +1,4 @@
 {
-  "/page": "app/page.js",
-  "/maternal/page": "app/maternal/page.js",
-  "/preescolar/page": "app/preescolar/page.js",
-  "/primaria/page": "app/primaria/page.js",
-  "/secundaria/page": "app/secundaria/page.js",
-  "/preparatoria/page": "app/preparatoria/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js"
 }
